@@ -1,0 +1,12 @@
+name: JustRP
+version: 1.0
+main: me.FortiBrine.JustRP.Main
+
+commands:
+  me:
+    usage: "§7/me <сообщение>"
+  do:
+    usage: "§7/do <сообщение>"
+  n:
+    usage: "§7/n <сообщение>"
+    

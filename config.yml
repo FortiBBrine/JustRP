@@ -1,0 +1,9 @@
+me:
+  distance: 10
+  answer: " * %name %message"
+do:
+  distance: 10
+  answer: "%message (%name)"
+n:
+  distance: 10
+  answer: "§7(( %player:%message §7))"
